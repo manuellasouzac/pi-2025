@@ -10,6 +10,8 @@
     padding-right: 15px;
 }
 
-.form-group {
-
+.container {
+    display: flex;
+   flex-direction: column;
+   justify-content: space-between;
 }
