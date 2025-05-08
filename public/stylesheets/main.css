@@ -6,5 +6,6 @@
     background-color: #6A5ACD;
     color: white;
     border-radius: 5px;
-    size: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
